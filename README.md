@@ -20,16 +20,26 @@ Obs: Ao clonar o repositório, será necessário rodar o comando 'npm install' p
 PRINTS
 
 Tela de login
-<img width="387" height="860" alt="tela de login" src="https://github.com/user-attachments/assets/8fef3073-bfbe-4cd5-986b-3172dc6a1654" />
+
+<img width="387" height="860" alt="tela_login" src="https://github.com/user-attachments/assets/a18f8dab-6890-4471-9718-3188dcb15836" />
+
+
 
 Tela com todos os produtos
+
 <img width="387" height="860" alt="todos_produtos" src="https://github.com/user-attachments/assets/dbd3fee8-d33b-4cee-93c8-61bb613e302b" />
 
+
 Tela de produtos masculino
+
 <img width="387" height="860" alt="produtos_masculino" src="https://github.com/user-attachments/assets/6a0b0c43-4406-465d-824b-50e3fee5ba62" />
 
+
 Tela de produtos feminino
+
 <img width="387" height="860" alt="produtos_feminino" src="https://github.com/user-attachments/assets/4f2c6a16-8d34-4eb8-aea4-836c65693064" />
 
-Tela de detalhes do produto selecionado.
+
+Tela de detalhes do produto selecionado
+
 <img width="387" height="860" alt="tela_detalhes" src="https://github.com/user-attachments/assets/8ef7a6c5-8f5d-435c-9812-d15c46d35a5e" />
