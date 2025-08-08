@@ -12,6 +12,24 @@ Para iniciar o projeto 'npm start'
  - A próxima tela exibe uma lista com 30 produtos variados, os dados dos produtos são obtidos via API REST, com a URL: https://dummyjson.com/products
       Para consumir a API, está sendo utilizado o pacote axios ( npm ).
  - Na tela de produtos existe 2 botões separando categorias 'Masculino' e 'Feminino', ao clicar em cada botão será apresentado uma lista dos respectivos produtos da categoria ( cerca de 16 no masculino e 25 no feminino ).
+ - Ao clicar sobre um produto, você será redirecionado para a tela de detalhes daquele mesmo produto. Para voltar, clique na seta de navegação.
  - A tela de produtos conta com navegação em pilha ( Stacks ), logo, ao clicar na seta de voltar no canto superios esquerdo, a aplicação volta para a tela de login.
 
 Obs: Ao clonar o repositório, será necessário rodar o comando 'npm install' para baixar o node_modules que fica oculto pelo arquivo ( .gitignore ).
+
+PRINTS
+
+Tela de login
+<img width="387" height="860" alt="tela de login" src="https://github.com/user-attachments/assets/8fef3073-bfbe-4cd5-986b-3172dc6a1654" />
+
+Tela com todos os produtos
+<img width="387" height="860" alt="todos_produtos" src="https://github.com/user-attachments/assets/dbd3fee8-d33b-4cee-93c8-61bb613e302b" />
+
+Tela de produtos masculino
+<img width="387" height="860" alt="produtos_masculino" src="https://github.com/user-attachments/assets/6a0b0c43-4406-465d-824b-50e3fee5ba62" />
+
+Tela de produtos feminino
+<img width="387" height="860" alt="produtos_feminino" src="https://github.com/user-attachments/assets/4f2c6a16-8d34-4eb8-aea4-836c65693064" />
+
+Tela de detalhes do produto selecionado.
+<img width="387" height="860" alt="tela_detalhes" src="https://github.com/user-attachments/assets/8ef7a6c5-8f5d-435c-9812-d15c46d35a5e" />
